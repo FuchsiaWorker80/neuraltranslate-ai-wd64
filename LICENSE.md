@@ -1,4 +1,4 @@
-# 
+# Nativo NeuralTranslate script. Baixe e instale com atualizações automáticas e monitoramento em tempo real — rápido, seguro e fácil de usar.
 
 
 
